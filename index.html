@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- link estilização -->
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <link rel="stylesheet" href="assets/css/banner.css" />
+    <link rel="stylesheet" href="assets/css/destaque.css" />
+    <link rel="stylesheet" href="assets/css/filmes.css" />
+    <link rel="stylesheet" href="assets/css/popup.css" />
+
+    <!-- link favicon -->
+    <link
+      rel="shortcut icon"
+      href="assets/images/favicon-32x32.png"
+      type="favicon-32x32"
+    />
+
+    <!-- Title -->
+    <title>MarvelFlix</title>
+  </head>
+  <body>
+    <header>
+        <img src="assets/images/logo.png" alt="Logo">
+        <nav>
+            <a href="#">Séries</a>
+            <a href="#">Filmes</a>
+            <a href="#">Favoritos</a>
+        </nav>
+
+        <button class="user-button" id="open-popup">Entrar / Criar conta</button>
+    </header>
+
+    <!-- Adicione a janela de pop-up -->
+    <div id="popup" class="popup">
+        <div class="popup-content">
+          <span class="close-button" id="close-popup">&times;</span>
+          <h2>Fazer login ou crie sua conta</h2>
+          <div id="login-form">
+            <form action="./assets/php/controle.php" method="post">
+                <label for="usuario">Usuario: </label>
+                <input type="text" name="usuario" id="usuario" required placeholder="Usuario: ">
+
+                <label for="senha">Senha: </label>
+                <input type="password" name="senha" id="senha" required placeholder="Senha: ">
+
+                <input class="btn-senha" type="submit" value="Entrar">
+            </form>
+            <p>Ainda não tem uma conta? <a id="create-account-link" href="#">Criar conta</a></p>
+          </div>
+
+          <div id="create-account-form" style="display: none;">
+            <form action="./assets/php/index.php" method="post">
+                <label for="usuario">Usuario: </label>
+                <input type="text" name="usuario" id="usuario" required placeholder="Usuario: ">
+
+                <label for="senha">Senha: </label>
+                <input type="password" name="senha" id="senha" required placeholder="Senha: ">
+
+                <input class="btn-senha" type="submit" value="Registrar">
+            </form>
+            <p>Já tem uma conta? <a id="return-to-login-link" href="#">Voltar ao login</a></p>
+          </div>
+        </div>
+      </div>
+
+
+    <main>
+        <section class="banner">
+            <h1>WandaVision</h1>
+            <div class="acoes">
+                <button type="button">Assistir</button>
+                <button type="button">Informações</button>
+            </div>
+        </section>
+
+        <section class="categorias">
+
+        <div class="destaque">
+            <p>Em destaque</p>
+            <div class="titulos">
+
+                <div class="imagens">
+                    <img src="assets/images/filme-05.png" alt="filme" class="imagem">
+                    <img src="assets/images/filme-06.png" alt="filme" class="imagem">
+                    <img src="assets/images/filme-07.png" alt="filme" class="imagem">
+                    <img src="assets/images/filme-08.png" alt="filme" class="imagem">
+                </div>
+
+            </div>
+        </div>
+
+        <div class="filmes">
+            <p>Todos os Títulos</p>
+            <div class="lista-completa">
+                <img src="assets/images/filme-12.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-11.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-10.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-09.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-08.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-07.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-06.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-05.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-04.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-03.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-02.png" alt="Filme" class="imagem">
+                <img src="assets/images/filme-01.png" alt="Filme" class="imagem">
+        </div>
+        </section>
+    </main>
+    <button id="anterior">Anterior</button>
+    <button id="proximo">Próximo</button>
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/popup.js"></script>
+    <script src="assets/js/popup.js"></script>
+  </body>
+</html>

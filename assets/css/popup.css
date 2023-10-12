@@ -1,0 +1,70 @@
+@import url(styles.css);
+
+/* Estilos para o pop-up */
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 100;
+  }
+
+  input {
+    background: var(--white);
+  }
+
+  form label {
+    color: var(--white);
+  }
+
+  form input {
+    background-color: var(--gray);
+  }
+
+  form .btn-senha {
+    background-color: var(--marvel-red);
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+  }
+
+  .popup h2, p {
+    color: var(--white);
+  }
+
+  .popup button {
+    background: var(--marvel-red);
+    font-size: 20px;
+    padding: 3px;
+    margin-left: 2px;
+  }
+
+  .popup a {
+    text-decoration: none;
+    color: var(--marvel-red);
+    font-size: 22px;
+  }
+
+  
+  .popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: var(--background);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
