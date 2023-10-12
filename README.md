@@ -16,7 +16,7 @@
   - [Learned](#learned)
 - [Autor](#autor)
   - [Credits](#credits)
-  - [Link](#link)
+  - [link](#link)
  
   ## summary
 
