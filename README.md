@@ -18,74 +18,74 @@
   - [Credits](#credits)
   - [link](#link)
  
-  ## summary
+## summary
 
-  ### about
+### about
   
-  <p>Projeto desenvolvido pela autora "Natália F. Dev", me passei muito no projeto dela para desenvolver esse. Porém fiz algumas modificações nesse projeto, o projeto
-  inicial, era montar um website simples com o tema da Marvel, porém a modificação que eu fiz foi trazer uma opção de login e cadastro, ainda está na fase de   
-  desenvolvimento, mais a ideia por tras, era fazer uma tela de login para o usuario acessar o projeto. OBS: Provavel que no futuro sai uma atualização para 
-  implantação dessa parte. </p>
+<p>Projeto desenvolvido pela autora "Natália F. Dev", me passei muito no projeto dela para desenvolver esse. Porém fiz algumas modificações nesse projeto, o projeto
+inicial, era montar um website simples com o tema da Marvel, porém a modificação que eu fiz foi trazer uma opção de login e cadastro, ainda está na fase de   
+desenvolvimento, mais a ideia por tras, era fazer uma tela de login para o usuario acessar o projeto. OBS: Provavel que no futuro sai uma atualização para 
+implantação dessa parte. </p>
 
-  ### preview
+### preview
 
-  <img src=""/>
+<img src=""/>
 
-  ## My code
+## My code
 
-  ### codes
+### codes
 
-  ### HTML
+### HTML
 
-  <p>Code HTML</p>
-  <img align="center" src="" width="900px"/>
+<p>Code HTML</p>
+<img align="center" src="" width="900px"/>
 
-  ### CSS
+### CSS
 
-  <p>Code CSS</p>
-  <img align="center" src="" width="900px"/>
+<p>Code CSS</p>
+<img align="center" src="" width="900px"/>
 
-  ### js
+### js
 
-  <p>Code Javascript</p>
-  <img align="center" src="" width="900px"/>
+<p>Code Javascript</p>
+<img align="center" src="" width="900px"/>
 
-  ### php
+### php
 
-  <p>Code PHP</p>
-  <img align="center" src="" width="900px"/>
+<p>Code PHP</p>
+<img align="center" src="" width="900px"/>
 
-  ## process
+## process
 
-  ### designed
+### designed
 
-  - semantic HTML;
-  - CSS priorities;
-  - Website;
-  - PHP Functions;
-  - Register and login;
-  - Javascript Functions.
+ - semantic HTML;
+- CSS priorities;
+- Website;
+- PHP Functions;
+- Register and login;
+- Javascript Functions.
  
-  ### learned
+### learned
   
-  🟢 Simples login and Register; 
-  🟢 WebSite.
+🟢 Simples login and Register; <br>
+🟢 WebSite.
 
-  ## autor
+## autor
 
-  ### autor
+### autor
 
-[![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-      
-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/)
-[![Twitter Badge](https://img.shields.io/badge/Caramico%20Patrick-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CaramicoPatrick)]  (https://twitter.com/CaramicoPatrick)
+[![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/)
+[![Twitter Badge](https://img.shields.io/badge/Caramico%20Patrick-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CaramicoPatrick)](https://twitter.com/CaramicoPatrick)
 [![GitHub Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico)
-
-  ### credits
   
-[![GitHub Badge](https://img.shields.io/badge/natalia%20fs-0077B5?style=for-the-badge&logo=github&logoColor=white&link=natagithub.com/natalia-fs)]
 
-  ### link
+### credits
+  
+[![GitHub Badge](https://img.shields.io/badge/natalia%20fs-0077B5?style=for-the-badge&logo=github&logoColor=white&link=natagithub.com/natalia-fs)](https://github.com/natalia-fs)
 
-  **Link to acess the project:**
-  https://patrickcaramico.github.io/Project_MarvelFlix/
+### link
+
+**Link to acess the project:**
+https://patrickcaramico.github.io/Project_MarvelFlix/
   
