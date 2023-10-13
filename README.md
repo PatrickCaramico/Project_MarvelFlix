@@ -1,6 +1,6 @@
 # Project_MarvelFlix
 
-<p>Website Simples, mostrando um pouco de filmes e series da Marvel Studio</p>
+<p>A simple website, showcasing some Marvel Studio movies and series</p>
 
 ## Readme Contents:
 - [Summary](#summary)
@@ -22,10 +22,7 @@
 
 ### about
   
-<p>Projeto desenvolvido pela autora "Natália F. Dev", me passei muito no projeto dela para desenvolver esse. Porém fiz algumas modificações nesse projeto, o projeto
-inicial, era montar um website simples com o tema da Marvel, porém a modificação que eu fiz foi trazer uma opção de login e cadastro, ainda está na fase de   
-desenvolvimento, mais a ideia por tras, era fazer uma tela de login para o usuario acessar o projeto. OBS: Provavel que no futuro sai uma atualização para 
-implantação dessa parte. </p>
+<p>Project developed by the author "Natália F. Dev," I borrowed a lot from her project to develop this one. However, I made some modifications to this project. The initial project was to create a simple website with a Marvel theme, but the modification I made was to add a login and registration option. It is still in the development phase, but the idea behind it was to create a login screen for users to access the project. Note: It's likely that there will be an update to implement this part in the future. </p>
 
 ### preview
 
